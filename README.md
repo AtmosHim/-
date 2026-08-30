@@ -38,8 +38,8 @@
 2. 按下键盘上的 **F12** 键，打开“开发者工具”。
 3. 切换到 **Console（控制台）** 选项卡。
 4. 将仓库中 `rain_classroom.js` 的脚本内容**完整粘贴**到控制台输入框中。
-5. 点开scut.yuketang.cn的cookie文件夹，点击sessionid
-6. 将sessionid的内容复制到脚本相应的地方
+5. 点开 **scut.yuketang.cn** 的 **cookie** 文件夹，点击 **sessionid**
+6. 将 **sessionid** 的内容复制到脚本相应的地方
 7. 按下 **回车（Enter）** 键执行。
 8. 根据控制台弹出的文字提示（如输入章节序号、是否跳过问答等）进行交互操作即可。
 
